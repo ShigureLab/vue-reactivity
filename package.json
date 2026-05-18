@@ -3,11 +3,6 @@
   "scripts": {
     "test": "vitest --run"
   },
-  "pnpm": {
-    "allowBuilds": {
-      "esbuild": true
-    }
-  },
   "devDependencies": {
     "vitest": "4.1.6"
   }
